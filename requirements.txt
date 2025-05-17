@@ -1,0 +1,16 @@
+# Telegram-бот
+aiogram==2.25.1
+
+# ML и рекомендации
+pandas==2.2.2
+scikit-learn==1.3.2
+
+# AI-дебаггер (анализ логов и генерация запросов)
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+requests==2.31.0
+python-dotenv==1.0.1
+
+# Тестирование
+pytest==7.4.4
+torch==2.2.1
